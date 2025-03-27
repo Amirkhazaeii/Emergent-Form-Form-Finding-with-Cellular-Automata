@@ -23,10 +23,10 @@ Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: Lost Genius</h3>
+  <h3 align="center">Cellular Metamorphosis: Evolving 3D Patterns Through Rules </h3>
 
   <p align="center">
- This is a yonkoma project called Lost Genius, which is a class assignment focused on using image-based AIs in the creative process workflow. The story follows a guy who, while cooking, has a brilliant idea for his yonkoma project. But then his mom calls, and just like that, he forgets what his idea was!
+ This project is the exploration of form-finding through 3D cellular automata, leveraging Conway's Game of Life rules in a 3D space for generative design , which is a class assignment about creating a generative pipeline!
     <br />
     <a href="https://github.com/Amirkhazaeii/4-comma-Assignment_01/blob/main/pdf/pdf.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
