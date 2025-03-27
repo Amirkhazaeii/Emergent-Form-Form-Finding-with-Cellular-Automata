@@ -1,4 +1,4 @@
-# Assignment_02 Cellular Metamorphosis: Evolving 3D Patterns Through Rules
+#Cellular Metamorphosis: Evolving 3D Patterns Through Rules Assignment_02
 
 Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
