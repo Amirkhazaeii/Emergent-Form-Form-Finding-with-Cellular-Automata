@@ -1,6 +1,6 @@
-# Cellular Metamorphosis: Evolving 3D Patterns Through Rules Assignment_02
+# Cellular Metamorphosis: Evolving 3D Patterns Through Rules 
 
-Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
+Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
