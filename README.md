@@ -28,7 +28,7 @@ Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
   <p align="center">
  This project is the exploration of form-finding through 3D cellular automata, leveraging Conway's Game of Life rules in a 3D space for generative design , which is a class assignment about creating a generative pipeline!
     <br />
-    <a href="https://github.com/Amirkhazaeii/4-comma-Assignment_01/blob/main/pdf/pdf.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/Amirkhazaeii/Emergent-Form-Form-Finding-with-Cellular-Automata"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Amir Khazaei</a>
