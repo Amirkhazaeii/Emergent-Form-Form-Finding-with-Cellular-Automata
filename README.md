@@ -37,7 +37,7 @@ Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
   </p>
 </div>
 
-[![4-comma][images-fig1]](https://example.com)
+[![A][MainRender]](https://example.com)
 
 Figure 1. The Lost Genius Yonkoma represents more than just a funny situation—it captures the real experience of being a busy master's student. With a constant stream of tasks, assignments, and expectations, distractions often steal our focus. From the technical Aspect its trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
 <!-- Abstract -->
