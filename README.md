@@ -53,7 +53,7 @@ Cellular automata (CA) have long been used in design and computational art, with
 ## Methodology
 
 [![4-comma][Methodology1]](https://example.com)
-Figure 2. Generated Images with Adobe Firefly with the first prompt.
+Figure 2. 72 iterations of 3D Game of Life with 6 different seeds.
 
 [![4-comma][images-fig3]](https://example.com)
 Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
