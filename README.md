@@ -110,6 +110,8 @@ Figure 14. Iteration: 10, Seed: 96
 
 Mathematcial Models used in the Grasshopper script:
 Anemone Loop: X(n+1) = f(X(n))
+Proximity 2d Formula for findinfg the neighbours
+PQ = d = √ [(x2 – x1)2 + (y2 – y1)2 + (z2 – z1)2].
 
 
 
