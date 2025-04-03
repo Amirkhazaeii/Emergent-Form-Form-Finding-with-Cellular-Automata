@@ -55,7 +55,7 @@ Cellular automata (CA) have long been used in design and computational art, with
 [![4-comma][Methodology1]](https://example.com)
 Figure 2. 72 iterations of 3D Game of Life with 6 different seeds.
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][Canvas]](https://example.com)
 Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
 
 
@@ -131,7 +131,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [product-screenshot]: images/screenshot.png
 [Main]: Images/Main.jpg
 [Methodology1]: Images/Methodology1.jpg
-[images-fig3]: images/fig3.png
+[Canvas]: images/Canvas.jpg
 [images-fig4]: images/fig4.png
 [images-fig5]: images/fig5.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
