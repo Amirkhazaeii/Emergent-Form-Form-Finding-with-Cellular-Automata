@@ -93,8 +93,8 @@ This project demonstrates the power of cellular automata in generating complex, 
 
 <!-- Bibliography -->
 ## Bibliography 
-Nadezhda Angelova. 2024. The capabilities of the art-oriented artificial intelligence Adobe Firefly and its visual
-advantages and disadvantages. Journal" Fundamental Sciences and Applications" 30, 1 (2024), 1–10.
+NConway, J. H. 1970. The Game of Life. Scientific American 223, 4 (1970), 120-123.
+Wolfram, S. 2002. A New Kind of Science. Wolfram Media.
 
 
 
