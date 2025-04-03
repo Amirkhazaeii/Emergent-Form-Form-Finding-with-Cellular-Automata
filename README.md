@@ -42,16 +42,13 @@ Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 Figure 1. The Lost Genius Yonkoma represents more than just a funny situation—it captures the real experience of being a busy master's student. With a constant stream of tasks, assignments, and expectations, distractions often steal our focus. From the technical Aspect its trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
 <!-- Abstract -->
 ## Abstract
-The process used to create the yonkoma "Lost Genius" for the Generative art and design class assignment  involved using image generator AI s to help artists make their humorous narrative. The experiment aimed to integrate AI as a tool in the creative process while maintaining human artistic control. Adobe FireFly was used as an image generator, and ChatGPT acted as a prompt engineer to develop a workflow for producing visuals. The yonkoma tells the story of a student losing his brilliant idea after getting distracted by a phone call from his mom.
-Example of how to make a list:
-There are many great README templates available on GitHub.
+This project explores the use of cellular automata (CA) as a generative tool for form-finding in 3D spaces. Inspired by Conway's Game of Life, this investigation applies its fundamental rules to voxel grids to evolve complex, organic shapes. By utilizing a 3D CA system with rules for under-population, survival, over-population, and reproduction, dynamic forms emerge, evolving through iterative processes. This exploration aims to demonstrate how mathematical principles can inform creative design and generate both stable and evolving structures. The process, analysis, and results showcase the potential of CA in digital design workflows.
 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-AI-generated art has become a widely discussed topic in creative fields. While AI can assist artists in generating ideas, it lacks the human touch essential for storytelling and visual expression. This project explores a workflow that integrates AI into the artistic process, enhancing rather than replacing human creativity. Prior works, such as AI-assisted character design and AI-enhanced concept art, have demonstrated the potential for collaboration between technology and artists. However, these applications often face criticism regarding originality and artistic intent. With "Lost Genius," the goal was to develop a method where AI serves as a supportive tool rather than an autonomous creator, emphasizing the importance of artistic intervention in refining AI-generated imagery.
-
+Cellular automata (CA) have long been used in design and computational art, with notable works like those by John Conway and later applications in generative design and architecture. Conway’s Game of Life, a 2D CA, has been widely used in demonstrating how simple rules can result in complex, emergent patterns. Recent works in generative design, such as Neri Oxman’s studies on nature-inspired computational design, show how algorithms can mimic biological processes. This project extends Conway’s Game of Life into the third dimension, exploring voxel-based grids and the rule set’s application in 3D modeling. The evolution of forms through CA has been explored in multiple art forms and architectural design, where simple rules evolve into complex structures, often mirroring natural forms. The work of Refik Anadol, in data-driven design, further enhances this approach, generating organic and fluid forms through digital processes. This project builds upon these ideas, applying CA to form-finding for architectural and artistic purposes.
 
 ## Methodology
 
@@ -64,7 +61,17 @@ Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
 
 
 
-Various AI image generators were tested, including Leonardo, MidJourney, Gemini and Adobe FireFly. Adobe FireFly was chosen for its ability to maintain a consistent anime-style aesthetic. ChatGPT was utilized as a prompt engineer, refining initial descriptions into detailed prompts for each panel. For example, the first panel's original prompt, "An anime-style character, a guy in the kitchen, making eggs," was refined into " An anime-style male character in a cozy kitchen, mid-cooking, with a shocked yet excited expression as if he just had a brilliant idea. He has spiky hair and wears a casual apron over a t-shirt. Holding a frying pan with sizzling food, steam rises around him, and various ingredients are scattered on the counter. The scene is dynamic, with warm lighting and vibrant colors, capturing the energy of his sudden inspiration. Medium shot, slightly dramatic angle for emphasis."
+This project utilizes a 3D cellular automata system to explore the generative design of complex forms. The system is based on Conway’s Game of Life but extended into three dimensions, where each cell (voxel) has 26 potential neighbors. The system follows four fundamental rules:
+
+Under-population: A live cell with fewer than two live neighbors dies.
+
+Survival: A live cell with two or three live neighbors survives to the next generation.
+
+Over-population: A live cell with more than three live neighbors dies.
+
+Reproduction: A dead cell with exactly three live neighbors becomes alive.
+
+In Grasshopper, the voxel grid is created using parameters for grid size, voxel resolution, and initial randomness. A random seed initializes the grid, with cells assigned a state of either alive or dead based on probability. The neighbor states are calculated using Euclidean distance, and each iteration applies the rules to evolve the grid’s state. This process is repeated across multiple generations to form complex, organic structures. The resulting forms are visualized through varying colors to represent alive and dead cells. Additionally, the system’s flexibility allows for the exploration of various parameters, such as grid size, neighbor radius, and mutation rates, which influence the final shapes."
 
 
 [![4-comma][images-fig4]](https://example.com)
@@ -78,11 +85,10 @@ The final AI-generated images were then digitally painted and the AI was fed wit
 
 
 ## Result and Future Work
-The process saved time in conceptualization while keeping the artistic expression. Future work can be and exploration of  integrating AI-driven animation techniques.
-
+The results of the 3D cellular automata system reveal intricate and organic forms, evolving through multiple generations based on the initial seed and rule set. The forms exhibit fractal-like growth patterns, with areas of stability and areas of continuous transformation, mirroring natural processes. These forms can be further explored in various design contexts, from architecture to digital art. The iterative nature of the system allows for the generation of both static and dynamic designs, which could be applied to installations or interactive exhibits. Future work could involve integrating additional mathematical models, such as reaction-diffusion systems or L-systems, to add more complexity and realism to the generated forms. Furthermore, the system can be expanded to include material properties and physics simulations to explore how these digital forms can be translated into physical structures.
 
 ## Conclusion
-"Lost Genius" illustrates how AI can assist artists in generating ideas and refining concepts without compromising artistic integrity. This project highlights the benefits of image generator AIs  while showing the necessity of human creativity in finalizing artistic works.
+This project demonstrates the power of cellular automata in generating complex, organic forms through simple iterative rules. By extending Conway's Game of Life into 3D, new possibilities for form-finding in generative design are explored. The results showcase how computational design can draw inspiration from natural processes, creating structures that evolve and adapt over time. Through this exploration, the project highlights the potential for cellular automata as a versatile tool in both creative and architectural practices, with numerous possibilities for future expansion and refinement.
 
 <!-- Bibliography -->
 ## Bibliography 
