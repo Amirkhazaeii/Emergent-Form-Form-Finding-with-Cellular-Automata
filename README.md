@@ -74,12 +74,14 @@ Reproduction: A dead cell with exactly three live neighbors becomes alive.
 In Grasshopper, the voxel grid is created using parameters for grid size, voxel resolution, and initial randomness. A random seed initializes the grid, with cells assigned a state of either alive or dead based on probability. The neighbor states are calculated using Euclidean distance, and each iteration applies the rules to evolve the grid’s state. This process is repeated across multiple generations to form complex, organic structures. The resulting forms are visualized through varying colors to represent alive and dead cells. Additionally, the system’s flexibility allows for the exploration of various parameters, such as grid size, neighbor radius, and mutation rates, which influence the final shapes."
 
 
-[![4-comma][images-fig4]](https://example.com)
-Figure 4.  Digitally painted panel that I gave to Adobe FireFly as the reference for generating image.
+[![4-comma][0]](https://example.com)
+Figure 4.  
 [![4-comma][images-fig5]](https://example.com)
 Figure 5. Generated Images with Adobe Firefly based on the refernce I gave.
 
-The final AI-generated images were then digitally painted and the AI was fed with the digital painting as the main style to generate more images close to the original painting. After generating more images with AI, they were used as the reference to draw my final.
+Mathematcial Models used in the Grasshopper script:
+Anemone Loop: X(n+1) = f(X(n))
+
 
 
 
@@ -134,7 +136,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Methodology1]: Images/Methodology1.jpg
 [Canvas]: Images/Canvas.PNG
 [Future]: Images/Future.jpg
-[images-fig5]: images/fig5.png
+[0]: Images/0.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
