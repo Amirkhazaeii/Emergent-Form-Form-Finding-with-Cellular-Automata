@@ -39,7 +39,7 @@ Assignment 2, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
 [![4-comma][Main]](https://example.com)
 
-Figure 1. The Lost Genius Yonkoma represents more than just a funny situation—it captures the real experience of being a busy master's student. With a constant stream of tasks, assignments, and expectations, distractions often steal our focus. From the technical Aspect its trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
+Figure 1. This image render is a represenation of some of the iterations of my scripts!
 <!-- Abstract -->
 ## Abstract
 This project explores the use of cellular automata (CA) as a generative tool for form-finding in 3D spaces. Inspired by Conway's Game of Life, this investigation applies its fundamental rules to voxel grids to evolve complex, organic shapes. By utilizing a 3D CA system with rules for under-population, survival, over-population, and reproduction, dynamic forms emerge, evolving through iterative processes. This exploration aims to demonstrate how mathematical principles can inform creative design and generate both stable and evolving structures. The process, analysis, and results showcase the potential of CA in digital design workflows.
@@ -52,7 +52,7 @@ Cellular automata (CA) have long been used in design and computational art, with
 
 ## Methodology
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][Methodology1]](https://example.com)
 Figure 2. Generated Images with Adobe Firefly with the first prompt.
 
 [![4-comma][images-fig3]](https://example.com)
@@ -130,7 +130,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Main]: Images/Main.jpg
-[images-fig2]: images/fig2.jpg
+[Methodology1]: images/Methodology1.jpg
 [images-fig3]: images/fig3.png
 [images-fig4]: images/fig4.png
 [images-fig5]: images/fig5.png
