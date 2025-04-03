@@ -75,9 +75,38 @@ In Grasshopper, the voxel grid is created using parameters for grid size, voxel 
 
 
 [![4-comma][0]](https://example.com)
-Figure 4.  
-[![4-comma][images-fig5]](https://example.com)
-Figure 5. Generated Images with Adobe Firefly based on the refernce I gave.
+Figure 4. Iteration: 0, Seed: 96  
+
+[![4-comma][1]](https://example.com)
+Figure 5. Iteration: 1, Seed: 96 
+
+[![4-comma][2]](https://example.com)
+Figure 6. Iteration: 2, Seed: 96 
+
+[![4-comma][3]](https://example.com)
+Figure 7. Iteration: 3, Seed: 96 
+
+[![4-comma][4]](https://example.com)
+Figure 8. Iteration: 4, Seed: 96 
+
+[![4-comma][5]](https://example.com)
+Figure 9. Iteration: 5, Seed: 96 
+
+[![4-comma][6]](https://example.com)
+Figure 10. Iteration: 6, Seed: 96 
+
+[![4-comma][7]](https://example.com)
+Figure 11. Iteration: 7, Seed: 96 
+
+[![4-comma][8]](https://example.com)
+Figure 12. Iteration: 8, Seed: 96 
+
+[![4-comma][9]](https://example.com)
+Figure 13. Iteration: 9, Seed: 96 
+
+[![4-comma][10]](https://example.com)
+Figure 14. Iteration: 10, Seed: 96 
+
 
 Mathematcial Models used in the Grasshopper script:
 Anemone Loop: X(n+1) = f(X(n))
@@ -137,6 +166,16 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Canvas]: Images/Canvas.PNG
 [Future]: Images/Future.jpg
 [0]: Images/0.jpg
+[1]: Images/0.jpg
+[2]: Images/0.jpg
+[3]: Images/0.jpg
+[4]: Images/0.jpg
+[5]: Images/0.jpg
+[6]: Images/0.jpg
+[7]: Images/0.jpg
+[8]: Images/0.jpg
+[9]: Images/0.jpg
+[10]: Images/0.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
