@@ -85,6 +85,7 @@ The final AI-generated images were then digitally painted and the AI was fed wit
 
 
 ## Result and Future Work
+[![4-comma][Future]](https://example.com)
 The results of the 3D cellular automata system reveal intricate and organic forms, evolving through multiple generations based on the initial seed and rule set. The forms exhibit fractal-like growth patterns, with areas of stability and areas of continuous transformation, mirroring natural processes. These forms can be further explored in various design contexts, from architecture to digital art. The iterative nature of the system allows for the generation of both static and dynamic designs, which could be applied to installations or interactive exhibits. Future work could involve integrating additional mathematical models, such as reaction-diffusion systems or L-systems, to add more complexity and realism to the generated forms. Furthermore, the system can be expanded to include material properties and physics simulations to explore how these digital forms can be translated into physical structures.
 
 ## Conclusion
@@ -132,7 +133,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Main]: Images/Main.jpg
 [Methodology1]: Images/Methodology1.jpg
 [Canvas]: Images/Canvas.PNG
-[images-fig4]: images/fig4.png
+[Future]: Images/Future.png
 [images-fig5]: images/fig5.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
